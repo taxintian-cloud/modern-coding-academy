@@ -408,7 +408,7 @@ body {
     box-shadow: 0 12px 30px rgba(0,0,0,0.12);
 }
 .achievement-card .number {
-    font-size: 2.8rem;
+    font-size: 1.5rem;
     font-weight: 700;
     background: linear-gradient(135deg, #8fd8ff, #6a7cff);
     -webkit-background-clip: text;
@@ -779,3 +779,4 @@ body {
     }
 
 }
+
