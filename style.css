@@ -82,7 +82,7 @@ body {
 .mobile-nav {
     position: fixed;
     top: 0;
-    right: 0; 
+    right: -100%; 
     width: 260px;
     height: 100vh;
     background: rgba(255,255,255,0.45);
@@ -382,7 +382,7 @@ body {
     text-align: center;
 }
 .achievements-inner h2 {
-    font-size: 2.4rem;
+    font-size: 1rem;
     font-weight: 700;
     margin-bottom: 60px;
     color: var(--text-black);
@@ -777,4 +777,5 @@ body {
     .achievement-cards {
         grid-template-columns: repeat(2, 1fr);
     }
+
 }
