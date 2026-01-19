@@ -1,4 +1,7 @@
  ModernCodingAcademy – Landing Page
+
+公開ページはこちら⇒https://taxintian-cloud.github.io/modern-coding-academy/
+
 HTML/CSS/JavaScriptを使って、ゼロから作り上げたランディングページです。
 このプロジェクトは、
 「デザインの世界観を形にする」
